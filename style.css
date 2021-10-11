@@ -1,0 +1,21 @@
+@font-face {
+    font-family: my;
+    src: url(/Users/ilonadrobot/Library/Fonts/serifiqo-4f-normal.otf);
+}
+.c{
+    font-family: my;
+}
+@font-face {
+    font-family: my2;
+    src: url(/Users/ilonadrobot/Library/Fonts/filter-cf-light.otf);
+}
+.b{
+    font-family: my2;
+}
+@font-face {
+    font-family: my3;
+    src: url(/Users/ilonadrobot/Library/Fonts/nature-green-regular.otf);
+}
+.d{
+    font-family: my3;
+}
